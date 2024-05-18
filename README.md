@@ -4,14 +4,14 @@ Bu proje, basit bir kullanıcı girişi doğrulama işlemi gerçekleştiren bir 
 ### Bu projeyi yerel makinenizde çalıştırmak için aşağıdaki adımları takip edebilirsiniz:
 
 - Proje Dosyalarını İndirin:
-- Proje dosyalarını GitHub deposundan klonlayın.
-- Gerekli Bağımlılıkları Kurun:
+ - Proje dosyalarını GitHub deposundan klonlayın.
+ - Gerekli Bağımlılıkları Kurun:
 
- - Apache Tomcat veya benzeri bir Servlet Container kurulu olmalıdır.
- - Jakarta Servlet API kütüphanesi projenizde yer almalıdır.
+  - Apache Tomcat veya benzeri bir Servlet Container kurulu olmalıdır.
+  - Jakarta Servlet API kütüphanesi projenizde yer almalıdır.
 - Projenizi Derleyin ve Dağıtın:
- - Projeyi derleyin ve WAR dosyasını oluşturun.
- - WAR dosyasını Tomcat webapps dizinine kopyalayın ve Tomcat'i başlatın.
+  - Projeyi derleyin ve WAR dosyasını oluşturun.
+  - WAR dosyasını Tomcat webapps dizinine kopyalayın ve Tomcat'i başlatın.
 
 ## Kullanım
 - Proje çalıştırıldıktan sonra, aşağıdaki adımları izleyerek uygulamayı kullanabilirsiniz:
